@@ -1,4 +1,4 @@
-# 🔍 Live Search Bar
+# 🔍 Live Search Ba
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://search-bar-live.netlify.app/)
 [![GitHub Repo](https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amdadislam01/search-bar-app)
