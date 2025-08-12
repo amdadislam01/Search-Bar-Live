@@ -16,7 +16,7 @@ A real-time search interface with instant results filtering and smooth animation
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,netlify" alt="Tech Stack" width="300"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,netlify,github" alt="Tech Stack" width="300"/>
 </p>
 
 ## 🖥️ Demo Preview
