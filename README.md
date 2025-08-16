@@ -1,4 +1,4 @@
-# 🔍 Real-Time Search Interface
+# 🔍 Real-Time Search Interfac
 
 A high-performance live search component with instant results filtering and smooth UX animations. Built with vanilla JavaScript for optimal performance.
 
