@@ -48,5 +48,5 @@ MIT Licensed - Free for personal and commercial use
 
 ---
 
-**Developed by [Amdad Islam**  
+**Developed by Amdad Islam**  
 [![GitHub](https://img.shields.io/github/followers/amdadislam01?style=social)](https://github.com/amdadislam01)
